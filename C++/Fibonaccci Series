@@ -1,4 +1,6 @@
-The following code contains the program for fibonacci series in C++ language .
+//The following code contains the program for fibonacci series in C++ language .
+
+
 
 #include <iostream>  
 using namespace std;  
