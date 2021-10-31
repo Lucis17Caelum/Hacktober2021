@@ -1,3 +1,5 @@
+//Below code contains java program for transpose matrix.
+
 class Solution {
     public int[][] transpose(int[][] matrix) {
         int row,col,i,j;
